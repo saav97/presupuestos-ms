@@ -14,7 +14,7 @@ datasource db {
 }
 
 enum OrderStatus{
-  PEDING
+  PENDING
   DELIVERED
   CANCELLED
 }
